@@ -3,10 +3,11 @@
 ## outputs usage
 osx_screenshot_export_usage () {
   echo "usage: osx-screenshot-export [-h]"
-  echo "   or: osx-screenshot-export [-f fps] [-s scale] [-d delay]"
+  echo "   or: osx-screenshot-export [-f fps] [-s scale] [-d delay] <src> <dest>"
   echo
   echo "options:"
   echo "   -f,--fps        Frames per second (Default: 10)"
+  echo "   -s,--scale      Output scaling (Default: 320:-1)"
   echo "   -d,--delay      Frame delay"
   echo "   -h,--help       Show this message"
   return 0

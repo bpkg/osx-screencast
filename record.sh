@@ -42,7 +42,7 @@ osx_screenshot_record () {
 
   ## feed info to user
   {
-    echo "Opening \`${app}'.."
+    echo "Opening \`${app}'..."
 
     shopt -s nocasematch
     if [[ "quicktime" =~ "${app}" ]]; then
