@@ -12,6 +12,12 @@ $ bpkg install osx-screencast
 
 ## example
 
+**record**
+
+![demo-record](osx-screencast-record.gif)
+
+**export**
+
 ![demo-export](osx-screencast-export.gif)
 
 ## usage
