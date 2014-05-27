@@ -10,6 +10,10 @@ Inspired from [this gist](https://gist.github.com/dergachev/4627207)
 $ bpkg install osx-screencast
 ```
 
+## example
+
+![demo-export](osx-screencast-export.gif)
+
 ## usage
 
 The `osx-screencast-record` command basically just opens up an
