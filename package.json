@@ -1,0 +1,7 @@
+{
+  "name": "osx-screencast",
+  "version": "0.0.1",
+  "description": "OS X Screencast helpers",
+  "install": "make install",
+  "scripts": ["dependencies.sh", "record.sh", "export.sh"]
+}
